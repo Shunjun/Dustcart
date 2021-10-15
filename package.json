@@ -1,0 +1,9 @@
+{
+  "name": "error-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "puppeteer": "^10.4.0"
+  }
+}
